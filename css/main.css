@@ -5,6 +5,16 @@ html {
     "Droid Sans", "Helvetica Neue", sans-serif;
     
 }
+
+.container {
+    background-color: #fdfdfd;
+}
+
+header > img{
+    max-width: 100%;
+    min-width: 500px;
+}
+
 h1 {    
   font-family: "Segoe UI Light";
     font-style: italic;
@@ -25,6 +35,7 @@ p {
    
 }
 
-.interview {
-    background-color: #f8f8f8;
+
+footer > img{
+    max-width: 100%;
 }
