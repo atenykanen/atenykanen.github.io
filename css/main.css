@@ -9,6 +9,7 @@ html {
 .container {
     padding-top: 10px;
     background-color: #fafafa;
+    min-width: 500px;
 }
 
 header > img{
