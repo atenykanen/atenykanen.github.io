@@ -8,12 +8,13 @@ html {
 
 .container {
     padding-top: 10px;
-    background-color: #fdfdfd;
+    background-color: #fafafa;
     min-width: 500px;
 }
 
 header > img{
     max-width: 100%;
+    min-width: 500px;
     
 }
 
@@ -24,15 +25,16 @@ h1 {
 }
 
 h2 {
-    font-family: "Segoe UI Light";
-    font-size: 2rem;
-    color: #353535;
+    font-family: "Segoe UI";
+    font-size: 1.1rem;
+    color: #505050;
 }
 
 p {
     font-family: "Segoe UI";
-    font-size: 1.5rem;
-    color: #777777;
+    font-size: 0.9rem;
+    color: #505050;
+    font-style: italic;
    
 }
 
@@ -51,7 +53,7 @@ footer > img{
     width: 100%;
     background-image: url(../images/textupper.png);
     display: block;
-    height: 5rem;
+    height: 1rem;
     background-repeat: no-repeat;
     background-size: 100% 100%;
  
@@ -61,7 +63,7 @@ footer > img{
     width: 100%;
     background-image: url(../images/textlower.png);
     display: block;
-    height: 5rem;
+    height: 1rem;
     background-repeat: no-repeat;
     background-size: 100% 100%;
   
