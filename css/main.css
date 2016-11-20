@@ -3,7 +3,7 @@ html {
     "Segoe UI", "Roboto", "Oxygen", 
     "Ubuntu", "Cantarell", "Fira Sans", 
     "Droid Sans", "Helvetica Neue", sans-serif;
-    
+    font-size:16px;
 }
 
 .container {
@@ -37,4 +37,13 @@ p {
 
 footer > img{
     max-width: 100%;
+}
+
+
+.text-bg::before {
+ content: url("../images/textupper.png");
+ width: 100%;
+}
+.text-bg::after { 
+  content: url("../images/textlower.png");
 }
