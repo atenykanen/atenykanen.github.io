@@ -25,6 +25,15 @@ a {
     font-style: italic;
 }
 
+a.active {
+    font-family: "Segoe UI";
+    font-size: 0.9rem;
+    color: #505050;
+    text-decoration: underline;
+    
+}
+
+
 a:hover {
   color: #505050;  
 }
