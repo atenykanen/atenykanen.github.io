@@ -11,7 +11,7 @@
   <div class="container">
     <header>
     <img src="images/header.png" alt="">
-    <h2><a href="#" class="active">Suomeksi</a> | <a href="./shortfromcv.html">CV lyhyesti</a> | <a href="en/index.html">In English</a></h2>
+    <h2><a href="#" class="active">Suomeksi</a> | <a href="en/index.html">In English</a></h2>
     </header>
 
     <div class="row">
@@ -62,7 +62,7 @@
             <div class="col-xs-12">
                 <div class="text-bg">
                     <h2>Tuossahan oli jo vaikka mitä! Mites harrastukset? </h2>
-                    <p>Rullalautailu on ollut oma juttu skidistä saakka, enkä ole ajatellut lopettaa. Musiikkihommat on myös aina kiinnostanut; levyjä ostelen, dj:nä toimin, käyn keikoilla ja soittelen bändeissä ja sellasti. Sitten kanssa muu kulttuuri kiinnostaa, ja myös taide, kirjat, leffat, pelit mitä näitä nyt on. Tykkään kanssa olla mukana järjestämässä erilaisia tapahtumia, esimerkiksi punk-keikkoja ja sellaista yhteisöllistä tekemistä. Ja pitsalla käynti tietysti, mutta onko se nyt mikään harrastus?
+                    <p>Rullalautailu on ollut oma juttu skidistä saakka, enkä ole ajatellut lopettaa. Musiikkihommat on myös aina kiinnostanut; levyjä ostelen, dj:nä toimin, käyn keikoilla ja soittelen bändeissä yms. Sitten kanssa muu kulttuuri kiinnostaa, ja sitten taide, kirjat, leffat, pelit jne. Ja pitsalla käynti tietysti, mutta onko se nyt mikään harrastus?
                     </p>
                 </div>
             </div>

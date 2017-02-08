@@ -42,6 +42,8 @@ h1 {
   font-family: "Segoe UI Light";
     font-style: italic;
   color: #3a3a3a;
+    font-size: 1.7rem;
+    padding-top: 10px;
 }
 
 h2 {
@@ -62,6 +64,10 @@ p {
 footer > img{
     max-width: 100%;
     min-width: 50%;
+}
+
+.lpic {
+    max-width: 100%;
 }
 
 .col-xs-12 {
